@@ -14,7 +14,7 @@
 
 3. 建立語料庫 : 利用 `bag-of-words` 建立 `corpus`，並從字典格式轉成向量空間格式
 4. 建立模型 : 這裡使用 `TF-IDF` 模型，也可以考慮使用 Lsi 模型
-5. 計算相似度 : 建立索引並排序，輸出章節相似度
+5. 計算相似度 : 建立索引並排序，輸出章節相似度 score
 
 <br>
 
@@ -29,7 +29,7 @@ $ pip install jieba
 - gensim
 
 ```
-pip install -U gensim
+$ pip install -U gensim
 ```
 
 <br>
@@ -51,6 +51,6 @@ $ python run.py
 3. 相似度排序
 
 ```
-請輸入欲比較的章節: 
+$ 請輸入欲比較的章節: 
 ```
 
