@@ -10,5 +10,5 @@ Textbook
 
 Homework
 
-- 將天龍八部章節做相似度排序
+- https://github.com/chuang76/Information-Retrieval/tree/master/hw
 
