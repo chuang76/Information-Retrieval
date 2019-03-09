@@ -39,7 +39,7 @@ $ pip install -U gensim
 1. 下載天龍八部全部章節
 
 ```
-$ python run.py
+$ python download.py
 ```
 
 2. 建立 TF-IDF 模型
