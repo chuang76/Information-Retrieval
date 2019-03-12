@@ -10,5 +10,8 @@ Textbook
 
 Homework
 
-- https://github.com/chuang76/Information-Retrieval/tree/master/hw
+- [Document similarity](https://github.com/chuang76/Information-Retrieval/tree/master/hw "link")
 
+Final project
+
+- [QA bot](https://github.com/chuang76/Information-Retrieval/tree/master/final "link")
