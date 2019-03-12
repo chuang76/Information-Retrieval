@@ -9,9 +9,7 @@
 以下會利用到 gensim 的三個核心分別為 corpus、vector、model
 
 1. 爬蟲
-
 2. 斷詞 : 利用 jieba 進行斷詞
-
 3. 建立語料庫 : 利用 `bag-of-words` 建立 `corpus`，並從字典格式轉成向量空間格式
 4. 建立模型 : 這裡使用 `TF-IDF` 模型，也可以考慮使用 Lsi 模型
 5. 計算相似度 : 建立索引並排序，輸出章節相似度 score
